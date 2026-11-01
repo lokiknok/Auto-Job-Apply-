@@ -5,7 +5,6 @@ An automated Python script that searches Indeed for target roles, auto-applies v
 An intelligent Python automation tool designed to automate job searching and applications on **Naukri.com**. The script handles both direct on-platform applications and external company site redirects, generates structured CSV reports, and sends real-time updates directly to a Telegram bot.
 
 --
-
 ## ✨ Features
 
 * **Automated Login & Search:** Authenticates with Naukri and scans job listings based on keywords, experience, and target locations.
