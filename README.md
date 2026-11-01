@@ -30,4 +30,4 @@ An intelligent Python automation tool designed to automate job searching and app
 Before running the script, ensure you have Python installed along with the required dependencies:
 
 ```bash
-pip install undetected-chromedriver selenium requests
+pip install undetected-chromedriver selenium request
