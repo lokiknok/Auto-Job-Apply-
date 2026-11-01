@@ -1,5 +1,5 @@
 # Auto-Job-Apply-
-An automated Python script that searches Indeed for target roles, auto-applies via "Easily Apply," handles dynamic multi-step forms, extracts external company application links, and delivers real-time job alerts alongside dual CSV reports directly to a Telegram bot. Features undetected Chrome integration to bypass bot detection.
+An automated Python script that searches Indeed for target roles, auto-applies via "Easily Apply," handles dynamic multi-step forms, extracts external company application links, and delivers real-time job alerts alongside dual CSV reports directly to a Telegram bot. Features undetected Chrome integration to bypass bot detection. 
 # 🚀 Naukri Automated Job Application System
 
 An intelligent Python automation tool designed to automate job searching and applications on **Naukri.com**. The script handles both direct on-platform applications and external company site redirects, generates structured CSV reports, and sends real-time updates directly to a Telegram bot.
