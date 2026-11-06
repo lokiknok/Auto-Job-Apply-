@@ -16,7 +16,6 @@ An intelligent Python automation tool designed to automate job searching and app
 * **Anti-Bot Bypass:** Uses `undetected-chromedriver` to prevent automated browser detection and CAPTCHA triggers.
 
 ---
-
 ## 🛠️ Tech Stack
 
 * **Language:** Python 3.x
